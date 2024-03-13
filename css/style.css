@@ -13,3 +13,12 @@
 	background-color: #B3B3B3;
 	clear: left;
 }
+
+.title {
+	font-weight: bold;
+	font-style: normal;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+}
