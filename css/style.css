@@ -38,6 +38,7 @@
 	transition: all 0.3s linear;
 }
 
+
 .secondary_header ul li:hover {
 	color: #717070;
 	cursor: pointer;
