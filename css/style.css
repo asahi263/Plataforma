@@ -118,3 +118,22 @@
 	padding-left: 0px;
 	display: inline-block
 }
+
+.row .columns p {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.container .columns h4 {
+	text-align: center;
+	color: #01B2D1;
+}
+
+.gallery .thumbnail2 .tag {
+	color: #5D5E5D;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
